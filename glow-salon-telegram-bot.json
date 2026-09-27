@@ -44,7 +44,7 @@
     },
     {
       "parameters": {
-        "modelName": "models/gemini-3.5-flash",
+        "modelName": "models/gemini-3.1-flash-lite",
         "options": {}
       },
       "id": "9228212c-b6d8-49d1-aa46-14048e5d9eab",
@@ -220,14 +220,14 @@
     },
     {
       "parameters": {
-        "modelName": "models/gemini-3.8-flash",
+        "modelName": "models/gemini-3.5-flash-lite",
         "options": {}
       },
       "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
       "typeVersion": 1.1,
       "position": [
-        -16,
-        176
+        240,
+        272
       ],
       "id": "002029a7-6226-43a6-83da-9c52eba2b2dd",
       "name": "Google Gemini Chat Model1",
@@ -342,7 +342,7 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "bf59182e-8b2a-465f-a11f-49565ee08f9d",
+  "versionId": "5c7527ea-1c13-49e6-8be5-4ab004095ca6",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "c6da915055fb51fb398f0456c3c90f54c5f7ca62df0215a2c4feeb0305a3de0d"
